@@ -1,0 +1,56 @@
+
+#wrapper {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.text-center { text-align: center; }
+
+.text-right { text-align: right; }
+
+.text-justify { text-align: justify; }
+
+.newstape {
+  background:white;
+  color:black;
+  height: 400px;
+  overflow: hidden;
+}
+
+.newstape-content {
+  position: relative;
+  padding: 15px;
+}
+.newstape-content hr{
+	border:1px solid silver;
+}
+
+.newstape-drag { cursor: ns-resize; }
+
+
+
+.tap{
+	width:100px;
+	height:40px;
+	background:#339933;
+	position:relative;
+	left:150px;
+	top:-15px;
+	
+	
+}
+#triangle-bottomright {
+	width: 0;
+	height: 0;
+	border-bottom: 15px solid #206020;
+	border-left: 12px solid transparent;
+	position:relative;
+	left:-12px;
+}
+#tap1{
+	color:white;
+	padding-left:20px;
+	font-size:20px;
+	margin-top:-8px;
+	font-family:cursive;
+}

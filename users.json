@@ -1,0 +1,3 @@
+{"_id":{"$oid":"57fa21e54fa07f543d8b4567"},"first_name":"Varsha","last_name":"Gupta","member_type":"Student","email":"varshagupta1610@gmail.com","username":"varsha","dob":"12/12/2016","password":"e10adc3949ba59abbe56e057f20f883e","gender":"f"}
+{"_id":{"$oid":"57fb8d1e4fa07f2d1c8b4567"},"username":"Shubham Gupta","facebook_id":"968445383278270","email":"shubhamboss32873@gmail.com","member_type":"Student","gmail_id":"114874301962896417696"}
+{"_id":{"$oid":"57fd1ee84fa07fdb058b4567"},"username":null,"facebook_id":null,"email":null}
